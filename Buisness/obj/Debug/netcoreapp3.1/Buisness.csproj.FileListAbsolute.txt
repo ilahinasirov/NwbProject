@@ -1,0 +1,17 @@
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Buisness.deps.json
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Buisness.dll
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Buisness.pdb
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Nasirov\NorthwindBackend\Buisness\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.csproj.AssemblyReference.cache
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.AssemblyInfoInputs.cache
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.AssemblyInfo.cs
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.csproj.CopyComplete
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.dll
+C:\Users\Nasirov\NorthwindBackend\Buisness\obj\Debug\netcoreapp3.1\Buisness.pdb
