@@ -82,5 +82,9 @@ namespace WebAPI.Controllers
            }
            return BadRequest(result.Message);
         }
+        public IActionResult SoftDelete(int ProductId)
+        {
+            return null;
+        }
     }
 }
