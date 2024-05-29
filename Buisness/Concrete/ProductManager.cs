@@ -53,5 +53,13 @@ namespace Buisness.Concrete
             _productDal.Delete(product);
             return new SuccessResult(Messages.Deleted);
         }
+
+        public IResult SoftDelete(int productId)
+        {
+            Product product = _productDal.GetById(productId);
+            //Database de IsDelete yaradib hemin  IsDelete True edirik.
+            // Chunki defolt listeleyende isdelete false olanlari getireceyik.
+            
+        }
     }
 }

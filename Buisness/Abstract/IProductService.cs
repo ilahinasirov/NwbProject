@@ -14,6 +14,7 @@ namespace Buisness.Abstract
         IResult Add(Product product);
         IResult Update(Product product);
         IResult Delete(Product product);
+        IResult SoftDelete(int  productId);
 
     }
 }

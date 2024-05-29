@@ -59,5 +59,16 @@ namespace Core.EntityFramework
                 context.SaveChanges();
             }
         }
+        public void SoftDelete(int id)
+        {
+            using (var context = new TContext())
+            {
+                var deletedEntity = context.Entry(id);
+                // Is deleted true edirik/
+                context.SaveChanges();
+            }
+            
+        }
+            
     }
 }

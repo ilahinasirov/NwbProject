@@ -12,5 +12,6 @@ namespace Core.Entity
         void Add(T entity);
         void Delete(T entity);
         void Update(T entity);
+        void SoftDelete(int  id);
     }
 }

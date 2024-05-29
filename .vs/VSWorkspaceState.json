@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Buisness",
+    "\\Buisness\\Abstract",
+    "\\Core",
+    "\\Core\\Entity",
+    "\\Core\\EntityFramework",
+    "\\DataAccess",
+    "\\DataAccess\\Abstract",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers"
   ],
-  "SelectedNode": "\\NorthwindBackend.sln",
+  "SelectedNode": "\\Buisness\\Concrete\\ProductManager.cs",
   "PreviewInSolutionExplorer": false
 }
